@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @str8deuces
-- 👀 I’m interested in computer programming
+- 👋 Hi, I’m @str8deuces.
+- 👀 I’m interested in learning another programming language.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
